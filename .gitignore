@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Randomly-generated files
+data/*.duckdb
+data/*.csv

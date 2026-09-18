@@ -29,7 +29,7 @@ wheels = [
 [[package]]
 name = "e2e-saas-pipeline"
 version = "0.1.0"
-source = { editable = "." }
+source = { virtual = "." }
 dependencies = [
     { name = "duckdb" },
     { name = "polars" },
